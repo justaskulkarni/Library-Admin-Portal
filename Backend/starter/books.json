@@ -1,0 +1,136 @@
+[
+  {
+    "name": "C++ Primer",
+    "author": "Bjarne Stroustrup",
+    "status": "available",
+    "issuer": "NA",
+    "duedate":"NA"
+  },
+  {
+    "name": "Data Structures and Algorithms",
+    "author": "Michael Goldwasser",
+    "status": "issued",
+    "issuer": "Jinesh Shah",
+    "duedate":"20-01-2023"
+  },
+  {
+    "name": "Introduction to Algorithms",
+    "author": "Thomas Cormen",
+    "status": "available",
+    "issuer": "NA",
+    "duedate":"20-01-2023"
+  },
+  {
+    "name": "Digital Logic Design",
+    "author": "A Anand Kumar",
+    "status": "issued",
+    "issuer": "Aryan Karawale",
+    "duedate":"02-01-2023"
+  },
+  {
+    "name": "Discrete Mathematics",
+    "author": "Kenneth Rosen",
+    "status": "issued",
+    "issuer": "Priyanshu Rathore",
+    "duedate":"12-01-2023"
+  },
+  {
+    "name": "Advanced Engineering Mathematics",
+    "author": "HK Dass",
+    "status": "issued",
+    "issuer": "Karan Choksey",
+    "duedate":"09-01-2023"
+  },
+  {
+    "name": "Automata Theory",
+    "author": "JE Hopcroft",
+    "status": "available",
+    "issuer": "NA",
+    "duedate":"NA"
+  },
+  {
+    "name": "Operating System Concepts",
+    "author": "Siberschatz",
+    "status": "issued",
+    "issuer": "Viraj Shah",
+    "duedate":"02-02-2023"
+  },
+  {
+    "name": "Fundamentals of DBMS",
+    "author": "Elmasri",
+    "status": "issued",
+    "issuer": "Meet Ranka",
+    "duedate":"25-01-2023"
+  },
+
+  {
+    "name": "Principles of GIS",
+    "author": "Otto Huisman",
+    "status": "issued",
+    "issuer": "Siddhant Baheti",
+    "due-date":"15-01-2023"
+  },
+  {
+    "name": "Probability and Statistics",
+    "author": "Sheldon Ross",
+    "status": "issued",
+    "issuer": "Mikhil Angre",
+    "duedate":"17-01-2023"
+  },
+  {
+    "name": "Web Technologies",
+    "author": "Tanveer Alam",
+    "status": "available",
+    "issuer": "NA",
+    "duedate":"NA"
+  },
+  {
+    "name": "Software Engineering",
+    "author": "Roger Pressman",
+    "status": "available",
+    "issuer": "NA",
+    "duedate":"NA"
+  },
+  {
+    "name": "Optical Fibre Communication",
+    "author": "John Senior",
+    "status": "issued",
+    "issuer": "Arsh Khan",
+    "duedate":"17-01-2023"
+  },
+  {
+    "name": "Digital Image Processing",
+    "author": "R Woods",
+    "status": "issued",
+    "issuer": "Aneesh Nayak",
+    "duedate":"05-01-2023"
+  },
+  {
+    "name": "RF Microelectronics",
+    "author": "Behzad Razavi",
+    "status": "available",
+    "issuer": "NA",
+    "duedate":"NA"
+  },
+  {
+    "name": "Antennas",
+    "author": "John Cross",
+    "status": "issued",
+    "issuer": "Rushi Jani",
+    "duedate":"20-01-2023"
+  },
+  {
+    "name": "Engineering Mechanics",
+    "author": "MD Dayal",
+    "status": "issued",
+    "issuer": "Siddharth Shenoy",
+    "duedate":"05-01-2023"
+  },
+  {
+    "name": "Engineering Drawing",
+    "author": "ND Bhatt",
+    "status": "issued",
+    "issuer": "Himanshu Singh",
+    "duedate":"20-01-2023"
+  }
+]
